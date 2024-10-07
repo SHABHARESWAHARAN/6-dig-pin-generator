@@ -1,4 +1,4 @@
-# 4-dig Pin generator
+# 6-dig Pin generator
 **Step 1**
 - give executive permission for the bash file
 - open the file properties
